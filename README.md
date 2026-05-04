@@ -26,8 +26,7 @@ Users can earn points, redeem rewards, and check their balance.
 ---
 
 ##  Screenshot
-
-![App Screenshot](<img width="2559" height="1022" alt="screenshot" src="https://github.com/user-attachments/assets/da3c0518-714c-4e4d-b4be-f9cd2c571409" />)
+(< img width="2559" height="1022" alt="screenshot" src="https://github.com/user-attachments/assets/da3c0518-714c-4e4d-b4be-f9cd2c571409" />)
 
 ---
 
