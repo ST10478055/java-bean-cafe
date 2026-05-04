@@ -24,7 +24,7 @@ public class Customer {
     public void redeemPoints() {
         if (points >= 50) {
             points -= 50;
-            System.out.println("Reward redeemed! Free coffee.");
+            System.out.println("Reward redeemed. Free coffee.");
         } else {
             System.out.println("Insufficient Points");
         }
